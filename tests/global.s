@@ -3,7 +3,7 @@
 
 .text
 _start:	popb r0h
-.byte	0xAA00-_start
+.byte	0xAA00 - _start
 .global _start
 .end
 this

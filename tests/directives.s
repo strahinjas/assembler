@@ -15,6 +15,6 @@ start:
 end:
 .word	start, end - start
 
-.align 3
+.align	3
 
 .end
